@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavyasri Bolem</h1>
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with 1.2 years of experience in building web applications using Java, Spring Boot, and various front-end technologies. I'm always eager to learn new skills and take on new challenges.
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyasri-bolem&label=Profile%20views&color=0e75b6&style=flat" alt="kavyasri-bolem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyasri-bolem" alt="kavyasri-bolem" /></a> </p>
