@@ -29,6 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyasri-bolem&show_icons=true&locale=en" alt="kavyasri-bolem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyasri-bolem&" alt="kavyasri-bolem" /></p>
----
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
